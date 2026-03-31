@@ -1,4 +1,5 @@
 ---
+layout: home
 title: "PinChen-Chen, 陳品臻"
 ---
 
